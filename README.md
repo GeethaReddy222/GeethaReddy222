@@ -2,7 +2,7 @@
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=GeethaReddy222&label=Visitors&color=blue&style=flat)
 
- | Full-Stack Developer | MERN Stack Enthusiast |💡 DSA Coder
+ | Full-Stack Developer | MERN Stack Enthusiast |
 
 ---
 
