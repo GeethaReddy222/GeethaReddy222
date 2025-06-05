@@ -19,7 +19,7 @@
 
 ### 🚀 Tech Stack & Tools
 
-)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/React-blue?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)
