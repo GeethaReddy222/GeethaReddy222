@@ -61,6 +61,5 @@ You can explore more projects on my [GitHub Repositories](https://github.com/Gee
 ### 🔗 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](http://www.linkedin.com/in/geetha-reddy-13ab9b2b7)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/Geetha_Reddy_0209/)
 
 ---
